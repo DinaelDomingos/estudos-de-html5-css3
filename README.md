@@ -7,4 +7,4 @@
 <p><a href=" https://dinaeldomingos.github.io/estudos-de-html5-css3/Capitulo2/documento_html_minimo.html">Exercício 001</a></p>
 <p><a href=" https://dinaeldomingos.github.io/estudos-de-html5-css3/Capitulo2/minha_primeira_pagina_web.html">Exercício 002</a></p>
 <p><a href=" https://dinaeldomingos.github.io/estudos-de-html5-css3/Capitulo2/quebras_de_linha_na_html.html">Exercício 003</a></p>
-<p><a href=" https://dinaeldomingos.github.io/estudos-de-html5-css3/Capitulo2/seis_niveis_de_cabecalho.html">Exercício 004 - Capitulo 2</a></p>
+<p><a href=" https://dinaeldomingos.github.io/estudos-de-html5-css3/Capitulo2/seis_niveis_de_cabecalho.html">Exercício 004</a></p>
